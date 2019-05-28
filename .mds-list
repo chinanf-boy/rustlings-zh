@@ -1,0 +1,16 @@
+./source/README.md
+./source/exercises/strings/README.md
+./source/exercises/primitive_types/README.md
+./source/exercises/move_semantics/README.md
+./source/exercises/if/README.md
+./source/exercises/tests/README.md
+./source/exercises/error_handling/README.md
+./source/exercises/macros/README.md
+./source/exercises/threads/README.md
+./source/exercises/structs/README.md
+./source/exercises/variables/README.md
+./source/exercises/standard_library_types/README.md
+./source/exercises/functions/README.md
+./source/exercises/modules/README.md
+./source/default_out.md
+
